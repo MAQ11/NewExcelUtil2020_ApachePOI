@@ -468,14 +468,6 @@ public class Xls_Reader {
 	// to run this on stand alone
 	public static void main(String arg[]) throws IOException {
 
-		// System.out.println(filename);
-		Xls_Reader datatable = null;
-
-		/*
-		 * datatable = new Xls_Reader(System.getProperty("user.dir")+
-		 * "\\src\\com\\qtpselenium\\xls\\Controller.xlsx"); for(int col=0 ;col<
-		 * datatable.getColumnCount("TC5"); col++){
-		 * System.out.println(datatable.getCellData("TC5", col, 1)); }
-		 */
+		
 	}
 }
